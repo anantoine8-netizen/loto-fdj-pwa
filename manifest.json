@@ -1,0 +1,15 @@
+{
+  "name": "Loto FDJ — Générateur, Stats & Suivi",
+  "short_name": "Loto FDJ",
+  "description": "Générateur de grilles, statistiques réelles des tirages et suivi des grilles jouées",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#020617",
+  "theme_color": "#0ea5e9",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
